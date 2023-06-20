@@ -1,0 +1,10 @@
+# PostSitesSiteRefSectionsRequest
+
+
+## Fields
+
+| Field                                                                                                  | Type                                                                                                   | Required                                                                                               | Description                                                                                            |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| `requestBody`                                                                                          | [?PostSitesSiteRefSectionsRequestBody](../../models/operations/PostSitesSiteRefSectionsRequestBody.md) | :heavy_minus_sign:                                                                                     | N/A                                                                                                    |
+| `pageRef`                                                                                              | *int*                                                                                                  | :heavy_check_mark:                                                                                     | Reference of the page on the site                                                                      |
+| `siteRef`                                                                                              | *int*                                                                                                  | :heavy_check_mark:                                                                                     | Reference of the site                                                                                  |
